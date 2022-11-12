@@ -1,7 +1,14 @@
-###  oh,hi there! 👋
+###  Hi there 👋
 Welcome to my GitHub profile!
-I am Tung, Full-Stack developer living in Meridian ID, United States
-I love the entire process of developing from planning to implmentation and bug fixing. I draw and digitally pain on procreate, dog lover and play board games with family and friends.
+My name is  Tung Le and I currently just finished my course at Boise Codeworks. My passions are in design and front-end development while still having interest in back-end deployment.I love the entire process of coding the critical thinking and problem-solving and those triumphant Yesses! after solving a problem that i was currently facing, the never-ending learning that constantly keeps you engages and excited to never see the end to that road. the relaxion of putting on a pod-cast or lofi while beeing steeped into your mind while coding. I have a long standing background in team based environments and customer service that has given me the ability to easily navigate social and team environments, I enjoy working with others and finding flexible and new solutions to problems.
+-🌱 Languages/Technologies: HTML, CSS/Bootstrap, JavaScript, Vue.js, Node.js, C#, Mongo DB/Mongoose, MySQL, Figma,Trello
+HOW TO REACH ME:
+
+[https://www.linkedin.com/in//](https://www.linkedin.com/in/tung-le-18a492242/)
+📫 tungle0319@gmail.com
+
+
+
 
 <!--
 **TungLe0319/TungLe0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
