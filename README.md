@@ -1,4 +1,7 @@
-### Hi there 👋
+###  oh,hi there! 👋
+Welcome to my GitHub profile!
+I am Tung, Full-Stack developer living in Meridian ID, United States
+I love the entire process of developing from planning to implmentation and bug fixing. I draw and digitally pain on procreate, dog lover and play board games with family and friends.
 
 <!--
 **TungLe0319/TungLe0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
