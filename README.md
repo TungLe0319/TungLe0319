@@ -34,7 +34,7 @@
 
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/tung-le-18a492242/)
   
- Gmail: tungle0319@gmail.com
+ Gmail: tung.le0319@gmail.com
   </div>
 
 ###
