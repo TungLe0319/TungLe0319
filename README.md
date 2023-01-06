@@ -11,7 +11,7 @@
   Hi, I'm Tung Le, a full-stack developer from Boise, Idaho.
   <br>
   <br>
-  🎓 I graduated from Boise Code Works and am currently learning how to build Next.js apps.
+  🎓 I graduated from Boise Code Works and am currently learning everyday tinkering with personal projects.
   <br>
   💻 I love writing code and learning anything about it.
 
