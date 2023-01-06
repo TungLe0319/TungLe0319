@@ -1,18 +1,28 @@
-<h4 align="left">Hi there and Hello World!!! 👋<br>Welcome to my GitHub profile!<br>My name is  Tung Le and I currently just finished my course at Boise Codeworks. My passions are in design and front-end development while still having interest in back-end deployment.I love the entire process of coding the critical thinking and problem-solving and those triumphant Yesses! after solving a problem that i was currently facing, the never-ending learning that constantly keeps you engages and excited to never see the end to that road. the relaxion of putting on a pod-cast or lofi while beeing steeped into your mind while coding. I have a long standing background in team based environments and customer service that has given me the ability to easily navigate social and team environments, I enjoy working with others and finding flexible and new solutions to problems.</h4>
-
-###
-___
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=TungLe0319" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=TungLe0319" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tung+Le...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-###
+<br>
+<p align="center">
+  Hi, I'm Tung Le, a full-stack developer from Boise, Idaho.
+  <br>
+  <br>
+  🎓 I graduated from Boise Code Works and am currently learning how to build Next.js apps.
+  <br>
+  💻 I love writing code and learning anything about it.
 
 
 
+
+</p>
+
+<br>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="70" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="70" alt="html5 logo"  />
@@ -24,10 +34,14 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="70" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="70" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" width="70" alt="slack logo"  />
+    <img src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/dotnetcore.svg" height="50" width="50" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="70" alt="git logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" width="70" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="70" alt="figma logo"  />
-  
+   <img src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png" height="50" width="50" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="70" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="70" alt="tailwind logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="70" alt="sass logo"  />
   
 </div>
 
@@ -37,9 +51,9 @@ ___
 <div align="center">
 
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/tung-le-18a492242/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tungle0319/)](https://www.linkedin.com/in/tungle0319/)
   
- Gmail: tung.le0319@gmail.com
+[![Gmail](https://img.shields.io/badge/gmail-tungle.0319@gmail.com-red.svg)](mailto:tungle.0319@gmail.com)
   </div>
 
 ###
