@@ -21,6 +21,17 @@
 </p>
 
 <br>
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/TungLe0319/GithubStats/e926d13a13700b7a9a95dae0c272b1ef0aef7818/generated/languages.svg" height="250" width="450" alt="javascript logo"  />
+   <img src="https://raw.githubusercontent.com/TungLe0319/GithubStats/e926d13a13700b7a9a95dae0c272b1ef0aef7818/generated/overview.svg" height="250" width="450" alt="javascript logo"  />
+ 
+</div>
+
+
+
+<br>
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
 <div align="center">
