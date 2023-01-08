@@ -1,10 +1,12 @@
 
+<div align="center"> 
+  <h1> 🧬Tung Le🧬        🍱🍣  Welcome, you come here often?  🍣🍱      </h1>
 
-<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tung+Le...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+
+</div>
 
 <br>
 <p align="center">
@@ -24,8 +26,8 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/TungLe0319/GithubStats/e926d13a13700b7a9a95dae0c272b1ef0aef7818/generated/languages.svg" height="250" width="450" alt="javascript logo"  />
-   <img src="https://raw.githubusercontent.com/TungLe0319/GithubStats/e926d13a13700b7a9a95dae0c272b1ef0aef7818/generated/overview.svg" height="250" width="450" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/TungLe0319/GithubStats/e926d13a13700b7a9a95dae0c272b1ef0aef7818/generated/languages.svg" height="200" width="400" alt="javascript logo"  />
+   <img src="https://raw.githubusercontent.com/TungLe0319/GithubStats/e926d13a13700b7a9a95dae0c272b1ef0aef7818/generated/overview.svg" height="200" width="400" alt="javascript logo"  />
  
 </div>
 
@@ -56,7 +58,22 @@
   
 </div>
 
-###
+ <br>
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Yoga website / landing page for a client
+- My CSS skill
+- Personal developer portfolio
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Firebase
+- Pocketbase
+- Docker
+- Styled Components  
 
 
 <div align="center">
@@ -68,3 +85,17 @@
   </div>
 
 ###
+
+<details>
+  <summary>Tung Le's Journey to now</summary>
+  <p>I started  in customer service, working in a variety of roles including kitchen jobs, grocery store jobs, and deli jobs. I learned many great teamwork and social skills  on top of the satifaction and joy of  helping others. however after a few years, I began to feel burnt out and knew that I wanted more from myself.  I wanted something more fulfilling and challenging, so I turned my attention to software development. As soon as I started learning about it, I was captivated.  From the first "Hello World" program to dealing with more complex and challenging problems everyday, I knew that this was the path I wanted to pursue.
+   I found that I could combine my love of problem-solving with my creativity and make a beautiful user experience applications. I am now passionate about pursuing a career in software development and am excited to see where it will take me.
+  </p>
+</details>
+
+
+
+
+
+
+
