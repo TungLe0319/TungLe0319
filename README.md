@@ -1,10 +1,13 @@
 
 <div align="center"> 
-  <h1> 🧬Tung Le🧬        🍱🍣 Welcome, you code here often? Well, sit back,  I hope you're ready to commit to reading all about me. So, let's begin...🍣🍱     </h1>
-
-  <a href="https://git.io/typing-svg">
+  <h1> 🧬Tung Le🧬      </h1>
+    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
+
+  <br>
+  <h1>   🍱🍣 Welcome, you code here often? Well, sit back,  I hope you're ready to commit to reading all about me. So, let's begin...🍣🍱     </h1>
+
 
 </div>
 
